@@ -1,6 +1,6 @@
 {
-  "name": "detect-inapp",
-  "version": "1.1.0",
+  "name": "@qubic-js/detect-inapp",
+  "version": "1.4.1",
   "description": "detect browser or in-app information for mobile",
   "main": "lib/inapp.js",
   "repository": "git@github.com:f2etw/detect-inapp.git",
